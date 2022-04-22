@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/benjamin-freudman-195a9787/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://bfreud94.github.io/freudsPortfolio/">
+    <a href="https://bfreud94.github.io/portfolio/">
         <img height="28" src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
     </a>
 </p>
