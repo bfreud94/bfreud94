@@ -8,19 +8,8 @@
 - 🎮 I also love video games, and am working on projects where I mod some of my favorite ones
 - 👥 Feel free to connect with my socials below
 
-<div style="display:flex">
-    <div>
-          <a href="https://www.linkedin.com/in/benjamin-freudman-195a9787/">
-            <img src="https://img.shields.io/badge/-Ben%20Freudman-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" style='height:27px; width:125px;'>
-          </a>
-    </div>
-    <div>
-        <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/36099686/badge' target="_clean">
-        Follow me on
-        <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom; height:13px; width:51px;'>
-        </a>
-    </div>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-Ben%20Freudman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-freudman-195a9787/)
+[![Strava](https://img.shields.io/badge/-Follow%20me%20on%20Strava-orange?style=flat&logo=Strava&logoColor=white)](https://strava.com/athletes/36099686)
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bfreud94&theme=dark&background=000000)](https://git.io/streak-stats)
