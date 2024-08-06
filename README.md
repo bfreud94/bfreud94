@@ -99,10 +99,3 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </p>
-
-### IDEs
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-plain.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>&nbsp;
-</p>
