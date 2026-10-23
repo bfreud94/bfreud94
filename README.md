@@ -1,8 +1,7 @@
 ### 🧑🏻‍💻 &nbsp;About Me
 
 👋🏻 My name is Ben Freudman, and I am a Fullstack Engineer with a specialty in Frontend Web Development
-
-- <img src="https://yt3.googleusercontent.com/2iOdtiJYSw27WrYKkQc2uReDqQ3XhyUA1YSOus-Andxj6Rz6TfMI0jeFWWcwaJEzHU9kWKA4=s900-c-k-c0x00ffffff-no-rj" width="13"> I currently work for FanDuel, where I am a Senior Frontend Engineer
+- <img src="https://www.google.com/s2/favicons?domain=fanduel.com&sz=32" width="16" height="16" alt="FanDuel" style="vertical-align: middle;" /> I currently work for FanDuel, where I am a Senior Frontend Engineer
 - 📫 I have worked on many personal projects, which you can find by going to my repositories section
 - 🏃🏻‍♂️‍➡️ I enjoy running, and I have several projects related to running and software
 - 🎮 I also love video games, and am working on projects where I mod some of my favorite ones
@@ -12,10 +11,17 @@
 [![Strava](https://img.shields.io/badge/-Follow%20me%20on%20Strava-orange?style=flat&logo=Strava&logoColor=white)](https://strava.com/athletes/36099686)
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=bfreud94&theme=dark&background=000000)](https://github.com/stats-organization/github-stats-extended)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfreud94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+	<a href="https://github.com/stats-organization/github-stats-extended">
+		<img src="https://github-stats-extended.vercel.app/api?username=bfreud94&theme=tokyonight&bg_color=00000000&hide_border=true" align="left" width="425" height="175" alt="GitHub Streak" />
+	</a>
+	<span style="display: inline-block; width: 24px;"></span>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfreud94&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" width="300" height="175" alt="Top Langs" />
+	</a>
+</p>
+<br clear="both">
 
 
 ### Programming Languages
