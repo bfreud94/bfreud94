@@ -12,7 +12,8 @@
 [![Strava](https://img.shields.io/badge/-Follow%20me%20on%20Strava-orange?style=flat&logo=Strava&logoColor=white)](https://strava.com/athletes/36099686)
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bfreud94&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=bfreud94&theme=dark&background=000000)](https://github.com/stats-organization/github-stats-extended)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfreud94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
