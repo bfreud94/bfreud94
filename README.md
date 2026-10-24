@@ -84,7 +84,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;	
 </p>
 
-### AWS
+### AWS Technologies
 <p>
 	<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
@@ -94,4 +94,14 @@
 	<img src="https://img.shields.io/badge/Amazon_RDS-%23527FFF.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon_DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon_EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+</p>
+
+### AI Technologies
+<p>
+	<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="40" height="40" alt="Ollama" />
+	<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="40" height="40" alt="GitHub Copilot" />
+	<img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" />
+	<img src="https://cdn.simpleicons.org/googlegemini/886FBF" width="40" height="40" alt="Google Gemini" />
+	<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="40" height="40" alt="Cursor" />
+	<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Pillow" />
 </p>
