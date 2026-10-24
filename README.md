@@ -1,7 +1,7 @@
 ### 🧑🏻‍💻 &nbsp;About Me
 
 👋🏻 My name is Ben Freudman, and I am a Fullstack Engineer with a specialty in Frontend Web Development
-- <img src="https://www.google.com/s2/favicons?domain=fanduel.com&sz=32" width="16" height="16" alt="FanDuel" style="vertical-align: middle;" /> I currently work for FanDuel, where I am a Senior Frontend Engineer
+- <img src="https://www.google.com/s2/favicons?domain=fanduel.com&sz=32" width="16" height="16" alt="FanDuel" style="vertical-align: middle;" /> I currently work for FanDuel, where I am a Senior Engineer
 - 📫 I have worked on many personal projects, which you can find by going to my repositories section
 - 🏃🏻‍♂️‍➡️ I enjoy running, and I have several projects related to running and software
 - 🎮 I also love video games, and am working on projects where I mod some of my favorite ones
